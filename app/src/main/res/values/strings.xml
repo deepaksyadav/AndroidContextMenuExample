@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContextMenuApp</string>
+    <string name="option1">ContentMenu Item 1</string>
+    <string name="option2">ContentMenu Item 2</string>
+    <string name="cmoption1">ContentMenu2 Item 1</string>
+    <string name="cmoption2">ContentMenu2 Item 2</string>
+</resources>
